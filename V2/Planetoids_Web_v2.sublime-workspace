@@ -1,0 +1,393 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"touch",
+				"touchY"
+			],
+			[
+				"prot",
+				"prototype"
+			],
+			[
+				"sta",
+				"Star"
+			],
+			[
+				"br",
+				"browserName"
+			],
+			[
+				"laser",
+				"currentLasers"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SpaceShip.js",
+			"settings":
+			{
+				"buffer_size": 4769,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Input.js",
+			"settings":
+			{
+				"buffer_size": 2301,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/JSLint/JSLint.sublime-build",
+	"command_palette":
+	{
+		"height": 265.0,
+		"selected_items":
+		[
+			[
+				"placka",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Stars.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/SpaceShip.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/SlicePoint.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Rocks.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/RequestAnimFrame.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Powerups.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Planetoids_Init.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Planetoids_Game.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Lasers.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Input.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Helpers.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Planetoids_Game.html",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/GlobalEvent.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/webgl-utils.js",
+		"/C/Users/Pablo/Desktop/V2/GlobalEvent.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Touch.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Mouse.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Powerup.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Rock.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/Laser.js",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/SlicePoint",
+		"/C/Users/Pablo/Dropbox/Public/Planetoids Web/V2/SpaceShip",
+		"/C/Users/Pablo/Dropbox/Public/MTG Web/Javascript/source/Js/CardHelpers.js",
+		"/C/Users/Pablo/Dropbox/Public/MTG Web/Javascript/source/Js/Card.js",
+		"/C/Users/Pablo/Dropbox/Public/MTG Web/Javascript/source/Js/kinetic-v4.0.1.js",
+		"/C/Users/Pablo/Dropbox/Public/MTG Web/Javascript/source/Js/CardInfo.js",
+		"/C/Users/Pablo/Dropbox/Public/MTG Web/Javascript/source/Js/Playfield.js",
+		"/C/Users/Pablo/Dropbox/Public/MTG Web/Javascript/source/Js/GlobalEvent.js",
+		"/C/Users/Pablo/Dropbox/Public/MTG Web/Javascript/main.html",
+		"/C/Users/Pablo/Dropbox/Public/MTG Web/Javascript/source/main.html",
+		"/C/Users/Pablo/Dropbox/Public/MTG Web/Javascript/MTG Web JS.sublime-project",
+		"/C/Users/Pablo/Desktop/build.hxml",
+		"/C/Users/Pablo/Desktop/test.hx"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"createWalls",
+			"initPlanetoids",
+			"init2D",
+			"loop",
+			"initBox2D",
+			"contactListener",
+			"debug",
+			"SetSleepingAllowed",
+			"requestAnimFrame",
+			"initMouse",
+			"Init",
+			"		\n",
+			"powerups",
+			"rocks",
+			"currentLasers",
+			"powerTime",
+			"g",
+			"Damage",
+			"this.health",
+			"Debug",
+			"rocks",
+			"DrawRocks",
+			"rocks",
+			"Rock",
+			"stars",
+			"b2Vec2",
+			"lasersOffset",
+			"DrawLaser",
+			"MAXHEALTH",
+			"LASERCOLOR",
+			"LOWHEALTHCOLOR",
+			"FULLHEALTHCOLOR",
+			"MAXLASERLIFE",
+			"ctx",
+			"DestroyAllRocks",
+			"gl.viewportHeight",
+			"gl.viewportWidth",
+			"StartNewRandomWorld",
+			"gl",
+			"gl.viewportHeight",
+			"gl.viewportWidth",
+			"gl",
+			"Reset",
+			"DrawLaser",
+			"Draw",
+			"Tick",
+			"Init",
+			"laserPower",
+			"laserLife",
+			"vertexColBuffer",
+			"vertexPosBuffer",
+			"lasersOffset",
+			"powerId",
+			"powerTime",
+			"shieldStrength",
+			"health",
+			"body",
+			"size",
+			"speed",
+			"body",
+			"vertexPosBuffer",
+			"vertexColBuffer",
+			"vertexPosBuffer",
+			"lasersOffset",
+			"powerId",
+			"powerTime",
+			"shieldStrength",
+			"body",
+			"size",
+			"speed",
+			"health",
+			"body",
+			"size",
+			"speed",
+			"dragstart"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CreateWalls",
+			"InitPlanetoids",
+			"Init2D",
+			"Loop",
+			"InitBox2D",
+			"this.powerups",
+			"MAX_HEALTH",
+			"LASER_COLOR",
+			"LOW_HEALTH_COLOR",
+			"FULL_HEALTH_COLOR",
+			"MAX_LASER_LIFE",
+			"canvas.height",
+			"canvas.width",
+			"canvas.height",
+			"canvas.width",
+			"this.laserPower",
+			"this.laserLife",
+			"this.vertexColBuffer",
+			"this.vertexPosBuffer",
+			"this.lasersOffset",
+			"this.powerId",
+			"this.powerTime",
+			"this.shieldStrength",
+			"this.health",
+			"this.body",
+			"this.size",
+			"this.speed",
+			"this.body",
+			"this.vertexPosBuffer",
+			"this.vertexColBuffer",
+			"this.vertexPosBuffer",
+			"this.lasersOffset",
+			"this.powerId",
+			"this.powerTime",
+			"this.shieldStrength",
+			"this.body",
+			"this.size",
+			"this.speed",
+			"this.health",
+			"this.body",
+			"this.size",
+			"this.speed"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SpaceShip.js",
+					"settings":
+					{
+						"buffer_size": 4769,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3001,
+								3001
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 924.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Input.js",
+					"settings":
+					{
+						"buffer_size": 2301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1709,
+								1709
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 24.0
+	},
+	"output.gjslint_result_view":
+	{
+		"height": 24.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true
+}
